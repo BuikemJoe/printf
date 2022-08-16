@@ -1,5 +1,9 @@
 #include "main.h"
-
+/**
+ * print_string - to print char and string to stdout.
+ * @string: the string to be printed.
+ * Return: count = success.
+ */
 int print_string(char *string)
 {
 	int count = 0;
@@ -10,4 +14,4 @@ int print_string(char *string)
 	}
 
 	return (count);
-}	
+}
