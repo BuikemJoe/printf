@@ -4,7 +4,7 @@
 
 /**
  * _printf - function to return character to stdout
- * format - standard arguments
+ * @format: the guidelines for th printing characters
  * Return: count
  */
 
