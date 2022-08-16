@@ -10,6 +10,7 @@
 int main(void)
 {
 	int n = printf("Hello %c %s %%", "J", "Onyekwelu");
+
 	printf("\nn = %d\n", n);
 
 	return (0);
